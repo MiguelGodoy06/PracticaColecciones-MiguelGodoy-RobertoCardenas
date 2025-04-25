@@ -20,8 +20,8 @@ Para ello crearemos lo siguiente:
 Gestionaremos las excepciones que se produzcan en el programa.
 
 ### Explicación del trabajo:
-En primer lugar hemos hecho el programa de forma que al ejecutarlo se pudiera hacer lo requerido en la propia consola, pero después de eso, hemos pensado que sería mejor y más como implementar todo el programa a un menú interactivo.
-Dentro del código también hemos pensado que era adecutado que al añadir una ciudad, al poner el número de habitantes, en vez de poner 25.000.000 para decir 25 millones, hemos logrado que simplemente con poner 25 millones, al listar la ciudad indique el número normal.
+En primer lugar hemos hecho el programa de forma que al ejecutarlo se pudiera hacer lo requerido en la propia consola, pero después de eso, hemos pensado que sería mejor implementar todo el programa a un menú interactivo
+Dentro del código también hemos pensado que era adecutado que, al añadir una ciudad, una vez se introduzca el número de habitantes, en vez de poner 25.000.000 para decir 25 millones, hemos logrado que simplemente con poner 25 millones, al listar la ciudad indique el número normal.
 Es decir si al incluir la ciudad ponemos 2 millones de habitantes, al mostrar la lista de ciudades veremos que indica a los habitantes como 2.000.000 de habitantes.
 
 
